@@ -1,0 +1,13 @@
+{
+  "name": "mypage",
+  "version": "1.0.0",
+  "description": "Simple webpage created using Express.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node Server.js"
+  },
+  "author": "Maulid Ihsan",
+  "dependencies": {
+    "express": "^4.14.1"
+  }
+}
